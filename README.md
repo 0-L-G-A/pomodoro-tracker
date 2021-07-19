@@ -11,4 +11,4 @@ TO DELETE TASK: just click on the trash tank icon 🗑;
 
 Follow the your battery: if you have from 5 to 10 chargers - you can work,
                          from 3 to 5 - do something what you like to do( go walking, play with your child or pet, draw, listen to music, do some sports),
-                         from 1 to 3 - just try to fall asleep and try don't to reduce chargers under 3rd tomorrow.
+                         from 1 to 3 - just try to fall asleep and try don't to reduce chargers under 3rd charge tomorrow.
