@@ -1,5 +1,4 @@
 # pomodoro-tracker
-About https://0-l-g-a.github.io/pomodoro-tracker/ This app is two in one: to do list and pomodoro tracker, which helps to avoid burnout.
 
 To start using this app go to: https://0-l-g-a.github.io/pomodoro-tracker/ 
 
